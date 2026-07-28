@@ -7,9 +7,6 @@
         name="shipukacapri"
         fetch="https://github.com/shipukacapri/" />
 
-    <remote
-        name="gitlab-deivid"
-        fetch="https://gitlab.com/Deivid21/" />
 
 <!-- Device tree -->
     
@@ -58,55 +55,6 @@
         path="hardware/motorola"
         remote="github"
         revision="lineage-24.0" />
-
-    <!-- MotoCam lahaina -->
-  <project
-    name="proprietary_vendor_motorola_MotCamera4-lahaina"
-    path="vendor/motorola/MotCamera4-lahaina"
-    remote="gitlab-deivid"
-    revision="android-16" />
-
-  <!-- MotoCam Common -->
-  <project
-    name="proprietary_vendor_motorola_MotCamera-common"
-    path="vendor/motorola/MotCamera-common"
-    remote="gitlab-deivid"
-    revision="android-16" />
-
-  <!-- MotoCam Photo editor -->
-  <project
-    name="proprietary_vendor_motorola_MotoPhotoEditor"
-    path="vendor/motorola/MotoPhotoEditor"
-    remote="gitlab-deivid"
-    revision="android-16" />
-
-  <!-- MotoCam3AI lahaina -->
-  <project
-    name="proprietary_vendor_motorola_MotCamera3AI-lahaina"
-    path="vendor/motorola/MotCamera3AI-lahaina"
-    remote="gitlab-deivid"
-    revision="android-16" />
-
-  <!-- MotoCamAI Common -->
-  <project
-    name="proprietary_vendor_motorola_MotCameraAI-common"
-    path="vendor/motorola/MotCameraAI-common"
-    remote="gitlab-deivid"
-    revision="android-16" />
-
-  <!-- MotoSignatureApp -->
-  <project
-    name="proprietary_vendor_motorola_MotoSignatureApp"
-    path="vendor/motorola/MotoSignatureApp"
-    remote="gitlab-deivid"
-    revision="android-16" />
-
-  <!-- MotoSettingsProvider -->
-  <project
-    name="proprietary_vendor_motorola_MotorolaSettingsProvider"
-    path="vendor/motorola/MotorolaSettingsProvider"
-    remote="gitlab-deivid"
-    revision="android-16" />
   
     
 </manifest>
