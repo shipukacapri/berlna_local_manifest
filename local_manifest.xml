@@ -7,14 +7,14 @@
       path="device/motorola/berlna"
       name="shipukacapri/android_device_motorola_berlna"
       remote="github"
-      revision="rising-17" />
+      revision="voltage-17" />
 
  <!-- Common device tree -->
   <project
       path="device/motorola/sm7325-common"
-      name="LineageOS/android_device_motorola_sm7325-common"
+      name="shipukacapri/android_device_motorola_sm7325-common"
       remote="github"
-      revision="lineage-24.0" />
+      revision="voltage-17" />
 
    <!-- Kernel tree (your fork) -->
   <project
