@@ -7,7 +7,7 @@
       path="device/motorola/berlna"
       name="shipukacapri/android_device_motorola_berlna"
       remote="github"
-      revision="rising-17" />
+      revision="infinity-17" />
 
  <!-- Common device tree -->
   <project
